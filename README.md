@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- :toolbox: I’m currently working on **metamorphic testing :man_technologist:** 
+- :toolbox: I’m currently working on **LLM testing :man_technologist:** 
 - 📈 I'm motivated to **learn new things every day 🔋**
 - 🥅 2024 Goals: **Contribute to Open Source projects**
 - ⚡ Fun facts: **I usually play in a music band 🎵 and I love to play mobile games 📱**
